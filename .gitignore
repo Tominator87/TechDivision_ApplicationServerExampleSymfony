@@ -3,3 +3,6 @@
 .sass-cache
 build.properties
 /vendor/
+/.project
+/.buildpath
+/.settings
